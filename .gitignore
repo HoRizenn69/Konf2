@@ -223,3 +223,6 @@ venv
 .idea/
 .vscode/
 .venv/
+
+run.bat
+demo.py
